@@ -10,8 +10,9 @@ Admin functionalities include
 4. Destroying the contract's functionality due to unprecedented conditions.
 
 <br>
+
 <b>Implementation Details</b>
-======================
+===
 A smart contract which is responsible to handle all the admin functions of the underlying system. The smart contract will have multiple Multi-Sig wallets with different roles to control access to functions in the underlying system.
 
 
